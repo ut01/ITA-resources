@@ -1,6 +1,17 @@
-# 안녕하세요, UT Austin 학우 여러분! 국제 교육 조교 (ITA) 시험 자료가 여기 있습니다!
+# 안녕하세요, UT Austin 학우 여러분! 국제 교육 조교 (ITA) 심사 자료가 여기 있습니다!
 
-이 저장소는 텍사스 대학교 오스틴 캠퍼스의 국제 교육 조교 (ITA) 시험을 위한 다양한 실용적인 자료를 모아놓았습니다. 이 자료들은 원래 위챗 그룹에서 선배들이 자발적으로 공유했던 것입니다. 더 많은 공식 정보를 알고 싶으신가요? 여기를 클릭하세요: [ITA 시험 공식 웹사이트](https://global.utexas.edu/english-language-center/resources/international-teaching-assistants).
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.en.md)
+[![Español](https://img.shields.io/badge/lang-Español-red.svg)](README.es.md)
+[![한국어](https://img.shields.io/badge/lang-한국어-green.svg)](README.ko.md)
+[![Tiếng Việt](https://img.shields.io/badge/lang-Tiếng_Việt-orange.svg)](README.vi.md)
+[![فارسی](https://img.shields.io/badge/lang-فارسی-purple.svg)](README.fa.md)
+[![中文](https://img.shields.io/badge/lang-中文-brown.svg)](../README.md)
+
+[![GitHub stars](https://img.shields.io/github/stars/ut01/ITA-resources)](https://github.com/ut01/ITA-resources)
+[![GitHub forks](https://img.shields.io/github/forks/ut01/ITA-resources)](https://github.com/ut01/ITA-resources/fork)
+[![GitHub issues](https://img.shields.io/github/issues/ut01/ITA-resources)](https://github.com/ut01/ITA-resources/issues)
+
+이 저장소는 텍사스 대학교 오스틴 캠퍼스의 국제 교육 조교 (ITA) 심사를 위한 다양한 실용적인 자료를 모아놓았습니다. 이 자료들은 원래 위챗 그룹에서 선배들이 자발적으로 공유했던 것입니다. 더 많은 공식 정보를 알고 싶으신가요? 여기를 클릭하세요: [ITA 심사 공식 웹사이트](https://global.utexas.edu/english-language-center/resources/international-teaching-assistants).
 
 ---
 

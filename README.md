@@ -1,8 +1,19 @@
-# 嘿，UT Austin 的小伙伴们！国际助教 (ITA) 项目资源来啦！
+# 嘿，UT Austin 的小伙伴们！国际助教 (ITA) 考试资源来啦！
 
-👋 欢迎来到这个充满宝藏的 GitHub 仓库！这里收集了德克萨斯大学奥斯汀分校国际助教 (ITA) 项目的各种实用资源。
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](./translations/README.en.md)
+[![Español](https://img.shields.io/badge/lang-Español-red.svg)](./translations/README.es.md)
+[![한국어](https://img.shields.io/badge/lang-한국어-green.svg)](./translations/README.ko.md)
+[![Tiếng Việt](https://img.shields.io/badge/lang-Tiếng_Việt-orange.svg)](./translations/README.vi.md)
+[![فارسی](https://img.shields.io/badge/lang-فارسی-purple.svg)](./translations/README.fa.md)
+[![中文](https://img.shields.io/badge/lang-中文-brown.svg)](README.md)
 
-这个项目最初是由学长学姐们自发在微信群里传播的。想了解更多官方信息？请戳这里：[ITA 项目官方网站](https://global.utexas.edu/english-language-center/resources/international-teaching-assistants)。
+[![GitHub stars](https://img.shields.io/github/stars/ut01/ITA-resources)](https://github.com/ut01/ITA-resources)
+[![GitHub forks](https://img.shields.io/github/forks/ut01/ITA-resources)](https://github.com/ut01/ITA-resources/fork)
+[![GitHub issues](https://img.shields.io/github/issues/ut01/ITA-resources)](https://github.com/ut01/ITA-resources/issues)
+
+👋 欢迎来到这个充满宝藏的 GitHub 仓库！这里收集了德克萨斯大学奥斯汀分校国际助教 (ITA) 考试的各种实用资源。
+
+这个考试最初是由学长学姐们自发在微信群里传播的。想了解更多官方信息？请戳这里：[ITA 考试官方网站](https://global.utexas.edu/english-language-center/resources/international-teaching-assistants)。
 
 ---
 

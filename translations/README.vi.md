@@ -1,6 +1,17 @@
-# Chào các bạn UT Austin! Tài liệu ôn thi Trợ giảng Quốc tế (ITA) đã có ở đây!
+# Chào các bạn UT Austin! Tài liệu ôn thi sàng lọc Trợ giảng Quốc tế (ITA) đã có ở đây!
 
-Kho lưu trữ này tổng hợp nhiều tài liệu thực tế hữu ích cho kỳ thi Trợ giảng Quốc tế (ITA) của Đại học Texas tại Austin. Các tài liệu này ban đầu được các anh chị khóa trên tự phát chia sẻ trong các nhóm WeChat. Muốn biết thêm thông tin chính thức? Nhấp vào đây: [Trang web chính thức của kỳ thi ITA](https://global.utexas.edu/english-language-center/resources/international-teaching-assistants).
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.en.md)
+[![Español](https://img.shields.io/badge/lang-Español-red.svg)](README.es.md)
+[![한국어](https://img.shields.io/badge/lang-한국어-green.svg)](README.ko.md)
+[![Tiếng Việt](https://img.shields.io/badge/lang-Tiếng_Việt-orange.svg)](README.vi.md)
+[![فارسی](https://img.shields.io/badge/lang-فارسی-purple.svg)](README.fa.md)
+[![中文](https://img.shields.io/badge/lang-中文-brown.svg)](../README.md)
+
+[![GitHub stars](https://img.shields.io/github/stars/ut01/ITA-resources)](https://github.com/ut01/ITA-resources)
+[![GitHub forks](https://img.shields.io/github/forks/ut01/ITA-resources)](https://github.com/ut01/ITA-resources/fork)
+[![GitHub issues](https://img.shields.io/github/issues/ut01/ITA-resources)](https://github.com/ut01/ITA-resources/issues)
+
+Kho lưu trữ này tổng hợp nhiều tài liệu thực tế hữu ích cho kỳ thi sàng lọc Trợ giảng Quốc tế (ITA) của Đại học Texas tại Austin. Các tài liệu này ban đầu được các anh chị khóa trên tự phát chia sẻ trong các nhóm WeChat. Muốn biết thêm thông tin chính thức? Nhấp vào đây: [Trang web chính thức của kỳ thi sàng lọc ITA](https://global.utexas.edu/english-language-center/resources/international-teaching-assistants).
 
 ---
 

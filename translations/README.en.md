@@ -1,6 +1,17 @@
-# Hey, UT Austin Folks! International Teaching Assistant (ITA) Exam Resources Are Here!
+# Hey, UT Austin Folks! International Teaching Assistant (ITA) Screening Resources Are Here!
 
-This repository collects various practical resources for the University of Texas at Austin's International Teaching Assistant (ITA) exam. These resources were initially shared spontaneously by senior students in WeChat groups. Want to know more official information? Click here: [ITA Exam Official Website](https://global.utexas.edu/english-language-center/resources/international-teaching-assistants).
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.en.md)
+[![Español](https://img.shields.io/badge/lang-Español-red.svg)](README.es.md)
+[![한국어](https://img.shields.io/badge/lang-한국어-green.svg)](README.ko.md)
+[![Tiếng Việt](https://img.shields.io/badge/lang-Tiếng_Việt-orange.svg)](README.vi.md)
+[![فارسی](https://img.shields.io/badge/lang-فارسی-purple.svg)](README.fa.md)
+[![中文](https://img.shields.io/badge/lang-中文-brown.svg)](../README.md)
+
+[![GitHub stars](https://img.shields.io/github/stars/ut01/ITA-resources)](https://github.com/ut01/ITA-resources)
+[![GitHub forks](https://img.shields.io/github/forks/ut01/ITA-resources)](https://github.com/ut01/ITA-resources/fork)
+[![GitHub issues](https://img.shields.io/github/issues/ut01/ITA-resources)](https://github.com/ut01/ITA-resources/issues)
+
+This repository collects various practical resources for the University of Texas at Austin's International Teaching Assistant (ITA) screening. These resources were initially shared spontaneously by senior students in WeChat groups. Want to know more official information? Click here: [ITA Screening Official Website](https://global.utexas.edu/english-language-center/resources/international-teaching-assistants).
 
 ---
 
