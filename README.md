@@ -1,4 +1,4 @@
-# 嘿，UT Austin 的小伙伴们！国际助教 (ITA) 考试资源来啦！
+# UT Austin ITA 考试资源
 
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](./translations/README.en.md)
 [![Español](https://img.shields.io/badge/lang-Español-red.svg)](./translations/README.es.md)
@@ -13,9 +13,7 @@
 [![GitHub all releases](https://img.shields.io/github/downloads/ut01/ITA-resources/total)](https://github.com/ut01/ITA-resources/releases)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ut01.ITA-resources)](https://visitor-badge.laobi.icu/)
 
-👋 欢迎来到这个充满宝藏的 GitHub 仓库！这里收集了德克萨斯大学奥斯汀分校国际助教 (ITA) 考试的各种实用资源。
-
-这个考试最初是由学长学姐们自发在微信群里传播的。想了解更多官方信息？请戳这里：[ITA 考试官方网站](https://global.utexas.edu/english-language-center/resources/international-teaching-assistants)。
+这个考试资料库最初是由学长学姐们自发在微信群里传播的。想了解更多官方信息？请戳这里：[ITA 考试官方网站](https://global.utexas.edu/english-language-center/resources/international-teaching-assistants)。
 
 ---
 
