@@ -21,18 +21,17 @@
 
 ### 快速获取文件
 
-1.  **像下载普通文件一样简单 (推荐！):**
-    *   点开这个 GitHub 页面。
-    *   找到那个绿色的 "<> Code" (代码) 大按钮，勇敢地戳下去！
-    *   在弹出的菜单里，选择 "Download ZIP" (下载 ZIP)。
-    *   下载完成后，解压一下，所有资料就都在你电脑里啦！是不是超方便？
+1.  **打包下载:**
+    *   "Download ZIP" (下载 ZIP) https://github.com/ut01/ITA-resources/archive/refs/heads/main.zip。
+    *   下载完成后，解压一下，OK
 
-2.  **如果你是技术小能手 (Git 用户看过来！):**
+2.  **技术流:**
     *   打开你的终端 (Terminal) 或命令提示符 (Command Prompt)。
-    *   输入这行神奇的代码：
+    *   输入代码：
         ```bash
         git clone https://github.com/ut01/ITA-resources.git
         ```
+    *   进度条显示 100% 就已经下载完成。
 
 ### ⭐ 点赞和收藏 (Star and Fork)
 
