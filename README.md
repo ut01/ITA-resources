@@ -22,7 +22,7 @@
 ### 快速获取文件
 
 1.  **打包下载:**
-    *   "Download ZIP" (下载 ZIP) https://github.com/ut01/ITA-resources/archive/refs/heads/main.zip。
+    *   "Download ZIP" (下载 ZIP) https://github.com/ut01/ITA-resources/archive/refs/heads/main.zip
     *   下载完成后，解压一下，OK
 
 2.  **技术流:**
