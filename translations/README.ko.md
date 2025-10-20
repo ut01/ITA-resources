@@ -29,6 +29,37 @@
         git clone https://github.com/ut01/ITA-resources.git
         ```
 
+경험 많은 UT Austin 조교들이 정리한 학습 가이드, 발표 주제 예시, 발음 훈련 자료로 국제 교육 조교 영어 구술 시험에 대한 자신감을 키우세요.
+
+검증된 발음 명료도, 수업 중 상호작용, 질의응답 전략을 활용해 시험 당일 UT Austin의 기대하는 교수 역량을 갖추세요.
+
+### ITA 테스트 가이드 개요
+
+**International Teaching Assistant Oral English Test (국제 교육 조교 영어 구술 시험)**
+
+> **안내 (2025년 8월 기준):** 공식 공지가 아니며, 친절한 참고용 안내입니다.
+
+#### ITA 시험을 보기 전에
+- 교육 조교로 배정되었는지 확인하세요.
+- 자격 요건을 다시 한 번 점검하세요.
+- 시험 형식과 평가 포인트를 숙지하세요.
+- 영어 말하기 연습을 꾸준히 이어가세요.
+
+#### 시험 정보
+- 시험 시간: 약 45분.
+- 시험 형식: 영어 언어 센터 직원과의 구술 인터뷰.
+- 시험 장소: English Language Center.
+- 대상: 학생과 상호작용하고 언어 점수(예: TOEFL)가 기준에 미달하는 국제 조교.
+
+#### 다음 단계
+아래 링크에서 ITA 시험 일정을 예약하세요: [ITA 시험 예약](https://outlook.office365.com/book/EnglishLanguageCenter1@utexas.onmicrosoft.com/s/FPFk7GYYrkmIusWkNoeANg2?ismsaljsauthenabled=true).
+
+#### 추가로 꼭 알아둘 정보
+- 일정을 변경하거나 취소해야 한다면 Bookings 확인 메일을 이용하거나 [txglobal-ita@austin.utexas.edu](mailto:txglobal-ita@austin.utexas.edu)로 연락하세요. 최소 72시간 전에 처리해야 `no-show` 수수료(What I Owe를 통해 청구)를 피할 수 있습니다.
+- **[ITA Screening 안내문](https://utexas.box.com/s/u9w5tk0hze4aqu47pfqq3w764uufnpjg)**: 과제 지침과 점수·결과 정보를 확인하세요.
+- **ITA Screening 면제:** 최근 24개월 이내 TOEFL iBT 말하기 25점 이상 또는 IELTS 말하기 7.5점 이상이라면 면제 대상이 될 수 있습니다. 해당된다면 예약 전에 연락 주세요.
+- **시험 당일 문제 발생 시:** 긴급 상황이나 기술적 문제가 있으면 ITA Screening & Certification 팀(+1 512-471-2480 또는 [txglobal-ita@austin.utexas.edu](mailto:txglobal-ita@austin.utexas.edu))으로 연락하세요.
+
 ### ⭐ 별표 및 포크 (Star and Fork)
 
 *   **"별표" 주기:** 이 자료가 유용하다고 생각하시면 주저하지 말고 페이지 오른쪽 상단에 있는 "Star" 버튼을 클릭하세요! 여러분의 "별표"는 저희에게 가장 큰 격려가 되며, 더 많은 학우들이 이 보물 창고를 발견하는 데 도움이 됩니다!

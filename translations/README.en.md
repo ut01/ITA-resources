@@ -29,6 +29,37 @@ This repository collects various practical resources for the University of Texas
         git clone https://github.com/ut01/ITA-resources.git
         ```
 
+Build confidence for the International Teaching Assistant Oral English Test with curated study guides, sample presentation prompts, and pronunciation drills collected by experienced UT Austin TAs.
+
+Use proven strategies for pronunciation clarity, classroom interaction, and question-handling so you can meet UT Austin's teaching expectations on test day.
+
+### ITA Test Guide Overview
+
+**International Teaching Assistant Oral English Test**
+
+> **Disclaimer (as of August 2025):** This is not an official notice, just a friendly reminder.
+
+#### Before Taking the ITA Test
+- Confirm you have been assigned as a teaching assistant.
+- Double-check your eligibility requirements.
+- Review the test format and evaluation focus.
+- Keep practicing your English speaking skills.
+
+#### Test Information
+- Test length: about 45 minutes.
+- Format: Oral interview with English Language Center staff.
+- Location: English Language Center.
+- Who needs it: International TAs who will interact with students and have language scores (e.g., TOEFL) below the required threshold.
+
+#### Next Step
+Book your ITA screening here: [Schedule ITA Test](https://outlook.office365.com/book/EnglishLanguageCenter1@utexas.onmicrosoft.com/s/FPFk7GYYrkmIusWkNoeANg2?ismsaljsauthenabled=true).
+
+#### Additional Important Information
+- If you need to reschedule or cancel, use the Bookings confirmation email or contact the office at [txglobal-ita@austin.utexas.edu](mailto:txglobal-ita@austin.utexas.edu). Please make changes at least 72 hours in advance to avoid a no-show fee (charged via What I Owe).
+- **[ITA Screening Directions](https://utexas.box.com/s/u9w5tk0hze4aqu47pfqq3w764uufnpjg)**: Review this document for task instructions plus scoring and results details.
+- **ITA Screening Exemptions:** Students with a TOEFL iBT speaking score of 25 or higher, or an IELTS speaking score of 7.5 or higher within the last 24 months, may qualify for an exemption. Contact us before your appointment if that applies to you.
+- **Screening Day Issues:** For emergencies or technical problems on your screening day, reach out to the ITA Screening & Certification Team (+1 512-471-2480 or [txglobal-ita@austin.utexas.edu](mailto:txglobal-ita@austin.utexas.edu)).
+
 ### ⭐ Star and Fork
 
 *   **Give a "Star":** If you find these resources helpful, don't hesitate to click the "Star" button in the upper right corner of the page! Your "star" is our greatest encouragement and helps more students discover this treasure trove!

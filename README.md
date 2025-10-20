@@ -17,7 +17,7 @@
 
 ---
 
-## 如何轻松玩转这个仓库？
+## 轻松玩转 ITA
 
 ### 快速获取文件
 
@@ -32,6 +32,35 @@
         git clone https://github.com/ut01/ITA-resources.git
         ```
     *   进度条显示 100% 就已经下载完成。
+
+通过由经验丰富的 UT Austin 助教整理的学习指南、演示题目示例和发音练习，为你的国际助教口语英语考试建立信心~
+
+### ITA 测试指南概览
+
+**International Teaching Assistant Oral English Test（国际助教口语英语考试）**
+
+> **提示（截至 2025 年 08 月）：** 这不是官方通知，仅作友好提醒。
+
+#### 在参加 ITA 考试之前
+- 确保你已经被分配为助教。
+- 核对自己的资格要求。
+- 熟悉考试形式与评分关注点。
+- 持续练习你的英语口语能力。
+
+#### 考试信息
+- 考试时长：约 45 分钟。
+- 考试形式：与英语语言中心老师进行口语面试。
+- 考试地点：英语语言中心。
+- 适用对象：需要与学生互动且语言成绩（如 TOEFL）未达标的国际助教。
+
+#### 下一步
+点击下方按钮预约你的 ITA 考试时间：[预约 ITA 考试](https://outlook.office365.com/book/EnglishLanguageCenter1@utexas.onmicrosoft.com/s/FPFk7GYYrkmIusWkNoeANg2?ismsaljsauthenabled=true)。
+
+#### 其他重要信息
+- 如果需要改期或取消预约，可通过 Bookings 确认邮件操作，或联系办公室 [txglobal-ita@austin.utexas.edu](mailto:txglobal-ita@austin.utexas.edu)。请至少提前 72 小时处理，以免产生缺席费用（通过 What I Owe 收取）。
+- **[ITA Screening Directions](https://utexas.box.com/s/u9w5tk0hze4aqu47pfqq3w764uufnpjg)**：查阅此文件了解任务说明及分数、结果信息。
+- **ITA Screening 免试条件：** 若你在过去 24 个月内的 TOEFL iBT 口语成绩达到 25 分，或 IELTS 口语成绩达到 7.5 分，可申请免试。若符合条件，请在预约前联系我们。
+- **考试当天突发情况：** 如遇紧急事件或技术问题，请联系 ITA Screening & Certification 团队（+1 512-471-2480 或 [txglobal-ita@austin.utexas.edu](mailto:txglobal-ita@austin.utexas.edu)）。
 
 ### ⭐ 点赞和收藏 (Star and Fork)
 

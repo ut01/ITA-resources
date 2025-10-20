@@ -29,6 +29,37 @@ Kho lưu trữ này tổng hợp nhiều tài liệu thực tế hữu ích cho 
         git clone https://github.com/ut01/ITA-resources.git
         ```
 
+Xây dựng sự tự tin cho kỳ kiểm tra nói ITA với bộ giáo trình, gợi ý chủ đề thuyết trình và bài tập phát âm được các trợ giảng dày dạn kinh nghiệm của UT Austin tuyển chọn.
+
+Vận dụng những chiến lược đã được kiểm chứng để cải thiện sự rõ ràng khi phát âm, tương tác trong lớp và xử lý câu hỏi, giúp bạn đáp ứng kỳ vọng giảng dạy của UT Austin vào ngày thi.
+
+### Tổng quan hướng dẫn kỳ thi ITA
+
+**International Teaching Assistant Oral English Test (Kỳ thi nói tiếng Anh cho trợ giảng quốc tế)**
+
+> **Lưu ý (tháng 8 năm 2025):** Đây không phải thông báo chính thức, chỉ là lời nhắc thân thiện.
+
+#### Trước khi tham dự kỳ thi ITA
+- Đảm bảo bạn đã được phân công làm trợ giảng.
+- Kiểm tra lại các điều kiện đủ điều kiện của mình.
+- Nắm rõ cấu trúc kỳ thi và các tiêu chí đánh giá.
+- Tiếp tục luyện kỹ năng nói tiếng Anh của bạn.
+
+#### Thông tin kỳ thi
+- Thời lượng: khoảng 45 phút.
+- Hình thức: phỏng vấn nói với nhân viên English Language Center.
+- Địa điểm: English Language Center.
+- Đối tượng: trợ giảng quốc tế sẽ tương tác với sinh viên và có điểm ngoại ngữ (ví dụ TOEFL) thấp hơn ngưỡng yêu cầu.
+
+#### Bước tiếp theo
+Đặt lịch kiểm tra ITA tại đây: [Đặt lịch kỳ thi ITA](https://outlook.office365.com/book/EnglishLanguageCenter1@utexas.onmicrosoft.com/s/FPFk7GYYrkmIusWkNoeANg2?ismsaljsauthenabled=true).
+
+#### Thông tin quan trọng bổ sung
+- Nếu cần dời hoặc hủy lịch, hãy dùng email xác nhận của Bookings hoặc liên hệ văn phòng qua [txglobal-ita@austin.utexas.edu](mailto:txglobal-ita@austin.utexas.edu). Hãy thực hiện ít nhất 72 giờ trước để tránh phí vắng mặt (tính qua What I Owe).
+- **[Hướng dẫn ITA Screening](https://utexas.box.com/s/u9w5tk0hze4aqu47pfqq3w764uufnpjg)**: Xem tài liệu này để biết hướng dẫn nhiệm vụ và thông tin về điểm số, kết quả.
+- **Miễn kỳ thi ITA:** Sinh viên đạt tối thiểu 25 điểm phần nói TOEFL iBT hoặc 7.5 điểm phần nói IELTS trong vòng 24 tháng gần đây có thể được miễn. Liên hệ với chúng tôi trước khi đặt lịch nếu bạn thuộc trường hợp này.
+- **Sự cố trong ngày thi:** Nếu gặp tình huống khẩn cấp hoặc sự cố kỹ thuật trong ngày thi, hãy liên hệ đội ITA Screening & Certification (+1 512-471-2480 hoặc [txglobal-ita@austin.utexas.edu](mailto:txglobal-ita@austin.utexas.edu)).
+
 ### ⭐ Đánh dấu sao và Fork
 
 *   **Đánh dấu "Sao":** Nếu bạn thấy các tài liệu này hữu ích, đừng ngần ngại nhấp vào nút "Star" (Theo dõi) ở góc trên bên phải trang! "Sao" của bạn là nguồn động viên lớn nhất của chúng tôi và giúp nhiều bạn khác khám phá kho báu này!

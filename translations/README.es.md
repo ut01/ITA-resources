@@ -29,6 +29,37 @@ Este repositorio recopila varios recursos prácticos para la evaluación de Asis
         git clone https://github.com/ut01/ITA-resources.git
         ```
 
+Refuerza tu confianza para el examen oral de International Teaching Assistant con guías de estudio seleccionadas, ejemplos de temas de presentación y ejercicios de pronunciación recopilados por asistentes de UT Austin con experiencia.
+
+Aplica estrategias comprobadas para mejorar la claridad de pronunciación, la interacción en el aula y el manejo de preguntas, para que el día del examen cumplas las expectativas docentes de UT Austin.
+
+### Panorama de la guía del examen ITA
+
+**International Teaching Assistant Oral English Test (Examen oral de inglés para asistentes internacionales)**
+
+> **Aviso (agosto de 2025):** Esta no es una comunicación oficial, solo un recordatorio amistoso.
+
+#### Antes de presentar el examen ITA
+- Confirma que te hayan asignado como asistente de enseñanza.
+- Verifica nuevamente tus requisitos de elegibilidad.
+- Revisa el formato del examen y los puntos de evaluación.
+- Sigue practicando tus habilidades de expresión oral en inglés.
+
+#### Información del examen
+- Duración: aproximadamente 45 minutos.
+- Formato: entrevista oral con el personal del English Language Center.
+- Lugar: English Language Center.
+- Dirigido a: asistentes internacionales que interactuarán con estudiantes y que tienen puntajes de idioma (p. ej., TOEFL) por debajo del umbral requerido.
+
+#### Próximo paso
+Programa tu examen ITA aquí: [Agendar examen ITA](https://outlook.office365.com/book/EnglishLanguageCenter1@utexas.onmicrosoft.com/s/FPFk7GYYrkmIusWkNoeANg2?ismsaljsauthenabled=true).
+
+#### Información importante adicional
+- Si necesitas reprogramar o cancelar, utiliza el correo de confirmación de Bookings o comunícate con la oficina en [txglobal-ita@austin.utexas.edu](mailto:txglobal-ita@austin.utexas.edu). Realiza los cambios con al menos 72 horas de anticipación para evitar el cargo por inasistencia (facturado a través de What I Owe).
+- **[Instrucciones del ITA Screening](https://utexas.box.com/s/u9w5tk0hze4aqu47pfqq3w764uufnpjg)**: Revisa este documento para conocer las instrucciones de las tareas y la información sobre puntajes y resultados.
+- **Exenciones del ITA Screening:** Los estudiantes con 25 puntos o más en la sección oral del TOEFL iBT, o 7.5 o más en la sección oral del IELTS en los últimos 24 meses, pueden recibir una exención. Contáctanos antes de tu cita si es tu caso.
+- **Problemas el día de la evaluación:** En caso de emergencia o problemas técnicos el día del examen, comunícate con el equipo de ITA Screening & Certification (+1 512-471-2480 o [txglobal-ita@austin.utexas.edu](mailto:txglobal-ita@austin.utexas.edu)).
+
 ### ⭐ Destacar y bifurcar (Star and Fork)
 
 *   **Dale una "estrella" (Star):** Si estos recursos te parecen útiles, ¡no dudes en hacer clic en el botón "Star" (seguir) en la esquina superior derecha de la página! ¡Tu "estrella" es nuestro mayor estímulo y ayuda a que más compañeros descubran este tesoro!
