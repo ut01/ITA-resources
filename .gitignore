@@ -2,5 +2,6 @@
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
 .DS_Store
-.kw/
+kw-ITA/
+KW-ITA-bkup/
 .cursor/
